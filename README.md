@@ -2,6 +2,8 @@
 
 ![rps-gif](Resource/rps-gif.gif)
 
+#### Full video [Here](https://youtu.be/jDaEojt1Owg)
+
 ## Set up instructions
 1. Clone the repo.
 
