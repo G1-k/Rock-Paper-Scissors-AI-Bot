@@ -19,15 +19,21 @@ Press - 'q' to quit
 
 4. Train the model
 ```sh
-$ python3 train.py
+$ python3 train_model.py
 ```
 
 5. Test the model on some images
 ```sh
-$ python3 test.py <path_to_test_image>
+$ python3 test_model.py <path_to_test_image>
 ```
 
-6. Play the game with your computer!
+6. Upload Sketch using Arduino IDE
+```
+rockpaperbot.ino
+```
+Connect the Arduino to PC.
+
+7. Start the game with your Bot!
 ```sh
 $ python3 play.py
 ```
