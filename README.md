@@ -1,6 +1,6 @@
 # AI Rock Paper Scissors Robot  
 
-![rps-gif](resource/rps-gif.gif)
+![rps-gif](Resource/rps-gif.gif)
 
 ## Set up instructions
 1. Clone the repo.
